@@ -1,12 +1,13 @@
 ﻿//Crear una función que reciba dos números y devuelva la suma de ambos.
-static int Sumar(int a,int b)
+
+static int Sumar(int a, int b)
 {
 	return a + b;
 }
 
 
-	
-
+	int resultado = Sumar(5, 3);
+Console.WriteLine(resultado);
 
 
 
