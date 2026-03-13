@@ -1,1 +1,12 @@
-﻿
+﻿//Crear una función que reciba dos números y devuelva la suma de ambos.
+static int Sumar(int a,int b)
+{
+	return a + b;
+}
+
+
+	
+
+
+
+
